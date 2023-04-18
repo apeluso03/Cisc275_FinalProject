@@ -5,7 +5,7 @@ import { HomePage } from "./Components/HomePage";
 function App() {
     return (
         <div className="App">
-            <header className="App-header">Team 6 Final</header>
+            <header className="App-header">Restaurant Rating Website</header>
             <div
                 style={{
                     textAlign: "left"
